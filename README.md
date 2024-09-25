@@ -8,7 +8,7 @@ My names Rudolph Bhembe and im a 23-year-old junior full-stack developer origina
 
 Currently, I'm diving deep into React.js, Next.js, Viem, and Supabase. My goal? To become a full stack developer, with a keen focus on backend magic! 
 
-Wanna chat? Reach me at rdbhembe@gmail.com.
+Wanna chat? Reach me at rdbhembe@gmail.com or contact 0825220240.
 
 ---
 
