@@ -1,6 +1,6 @@
 
 # Waaaaazzzzzzzuuuuuuuuuuuppppp!!
-![ghostface](ghostface.png)
+![ghostface](ghostface.jpg)
 
 # About Me:
 
