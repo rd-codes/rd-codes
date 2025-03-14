@@ -12,7 +12,7 @@ Im a 23-year-old junior full-stack developer originating from the humble city of
 Currently, I'm diving deep into the MERN Stack. My goal? To become a full stack developer, with a keen focus on backend magic! 
 
 ---
-
+</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudolph-bhembe-a189b92a0/)
 
 ## Skills:
