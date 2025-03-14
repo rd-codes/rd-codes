@@ -5,7 +5,7 @@
 <h1 align="center">⭐My name's Rudolph Bhembe⭐</h1>
 <h2 align="center">A passionate Web Developer and Quality Assurance Engineer</h3>
 
-# About Me:
+## About Me:
 
 Im a 23-year-old junior full-stack developer originating from the humble city of Nelspruit, Mpumalanga In South Africa. I'm on a quest to conquer the coding world, one line at a time. When I’m not crafting sleek interfaces, you can find me at the gym, lost in a good book, or binge-watching anime—always looking for that next big plot twist!
 
