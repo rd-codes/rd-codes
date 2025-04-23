@@ -3,13 +3,13 @@
 ![ghostface](ghostface.jpg)
 
 <h1 align="center">⭐My name's Rudolph Bhembe⭐</h1>
-<h2 align="center">A passionate Web Developer and Quality Assurance Engineer</h3>
+<h2 align="center">A passionate Developer and Quality Assurance Engineer</h3>
 
 ## About Me:
 
-Im a 23-year-old junior full-stack developer originating from the humble city of Nelspruit, Mpumalanga In South Africa. I'm on a quest to conquer the coding world, one line at a time. When I’m not crafting sleek interfaces, you can find me at the gym, lost in a good book, or binge-watching anime—always looking for that next big plot twist!
+Im a young junior Software Engineer  originating from  Nelspruit, Mpumalanga In South Africa. I'm on a quest to conquer the coding world, one line at a time. When I’m not crafting sleek interfaces, you can find me at the gym, lost in a good book, or binge-watching anime—always looking for that next big plot twist!
 
-Currently, I'm diving deep into the MERN Stack. My goal? To become a full stack developer, with a keen focus on backend magic! 
+Currently, I'm diving deep into the MERN Stack. My goal? To become a full stack developer, with a keen focus on backend development. 
 
 ---
 
@@ -91,7 +91,7 @@ Currently, I'm diving deep into the MERN Stack. My goal? To become a full stack 
 # Future Aspirations:
 I have an interest in diving into quality assurance testing next, which was my major at Tetiary, enhancing my skills to ensure code quality and robustness. 
 
-# A Bit of Personal Touch:
+# Fun Fact:
 Fun fact: My late grandma wanted me to become a doctor before she passed away. I became a software developer instead. Thats how serious im taking this.
 
 # Quote to Live By:
