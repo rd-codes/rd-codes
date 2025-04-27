@@ -1,102 +1,19 @@
+# 💫 About Me:
+I'm currently working on a Professional multi-vendor Ecommerce Application using MERN Stack.<br>I'm looking to collaborate on any start up ideas or the development of scalable applications that might solve a problem.<br>I'm looking for help with Data Structures and Algorithms.<br>I'm currently learning about Generative A.I in software Development.<br><br>
 
-## Waaaaazzzzzzzuuuuuuuuuuuppppp!!
-![ghostface](ghostface.jpg)
 
-<h1 align="center">⭐My name's Rudolph Bhembe⭐</h1>
-<h2 align="center">A passionate Developer and Quality Assurance Engineer</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xo.rudolph) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rudolph-dumisani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rdbhembe@gmail.com) 
 
-## About Me:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rd-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rd-codes&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rd-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-Im a young junior Software Engineer  originating from  Nelspruit, Mpumalanga In South Africa. I'm on a quest to conquer the coding world, one line at a time. When I’m not crafting sleek interfaces, you can find me at the gym, lost in a good book, or binge-watching anime—always looking for that next big plot twist!
-
-Currently, I'm diving deep into the MERN Stack. My goal? To become a full stack developer, with a keen focus on backend development. 
-
----
-
-## Technical Skills
-
-#### Programming Languages
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
-
-#### Frameworks and Libraries
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
-
-#### Testing Tools
-
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)](#)
-[![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
-[![Mock](https://img.shields.io/badge/Mock-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
-[![NUnit3](https://img.shields.io/badge/NUnit3-000000?style=for-the-badge&logo=nunit&logoColor=white&labelColor=101010)](#)
-[![Gauge](https://img.shields.io/badge/Gauge-FF6F61?style=for-the-badge&logo=gauge&logoColor=white&labelColor=101010)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)](#)
-
-#### Tools and Platforms
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](#)
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)](#)
-
-#### Concepts
-
-[![OOP](https://img.shields.io/badge/Object_Oriented_Design-000000?style=for-the-badge&logo=oop&logoColor=white&labelColor=101010)](#)
-[![Algorithms](https://img.shields.io/badge/Algorithm_Design-000000?style=for-the-badge&logo=algorithm&logoColor=white&labelColor=101010)](#)
-[![Data Structures](https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=data-structures&logoColor=white&labelColor=101010)](#)
-[![Database Design](https://img.shields.io/badge/Relational_Database_Design-000000?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)](#)
-[![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white&labelColor=101010)](#)
-[![Software Architecture](https://img.shields.io/badge/Software_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white&labelColor=101010)](#)
-[![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white&labelColor=101010)](#)
-[![Agile](https://img.shields.io/badge/Agile_Methodology-000000?style=for-the-badge&logo=agile&logoColor=white&labelColor=101010)](#)
-
-#### Methodologies
-
-[![Agile Practices](https://img.shields.io/badge/Agile_Practices-000000?style=for-the-badge&logo=agile&logoColor=white&labelColor=101010)](#)
-[![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white&labelColor=101010)](#)
-[![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=kanban&logoColor=white&labelColor=101010)](#)
-[![Iterative Design](https://img.shields.io/badge/Iterative_Design-000000?style=for-the-badge&logo=design&logoColor=white&labelColor=101010)](#)
-[![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=tdd&logoColor=white&labelColor=101010)](#)
-[![Debugging](https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=debugging&logoColor=white&labelColor=101010)](#)
-[![Software Design](https://img.shields.io/badge/Software_Design-000000?style=for-the-badge&logo=design&logoColor=white&labelColor=101010)](#)
-
-#### Version Control
-
-[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
-
-### Containerization
-
-[![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rd-codes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rd-codes&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rd-codes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## Find Me @:
-
-[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/xo.rudolph)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudolph-bhembe-a189b92a0)
-
-# Future Aspirations:
-I have an interest in diving into quality assurance testing next, which was my major at Tetiary, enhancing my skills to ensure code quality and robustness. 
-
-# Fun Fact:
-Fun fact: My late grandma wanted me to become a doctor before she passed away. I became a software developer instead. Thats how serious im taking this.
-
-# Quote to Live By:
-*"It’s better to burn out than fade away."* — Kurt Cobain
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-
-
+[![](https://visitcount.itsvg.in/api?id=rd-codes&icon=0&color=13)](https://visitcount.itsvg.in)
