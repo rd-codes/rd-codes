@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔧 **Backend-focused developer** building a professional multi-vendor Ecommerce Application using MERN Stack  
-☁️ **Cloud enthusiast** currently expanding my AWS and cloud computing expertise  
+🔧 **Software developer** currently building a professional multi-vendor Ecommerce Application using MERN Stack  
+☁️ **Cloud enthusiast** i want to learn about aws and cloud computing in the near future.
 🚀 **Problem solver** passionate about developing scalable backend systems  
 🧠 **Continuous learner** currently exploring Generative AI in software development  
 
@@ -12,7 +12,7 @@
 
 ## 🛠️ Currently Seeking Help With:
 - Advanced Data Structures and Algorithms  
-- AWS certification prep (Solutions Architect)  
+- AWS certification prep 
 - Microservices best practices  
 
 ## 🌐 Socials:
